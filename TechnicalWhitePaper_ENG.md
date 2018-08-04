@@ -124,3 +124,9 @@ Finally, the anonymity of users will be maintained as personal information of a 
 
 ## Conclusion
 MediBloc platform consists of various components based on blockchain technology to enable management and utilization of healthcare data under complete control of the user. The ultimate goal of MediBloc platform is to create a completely patient-centric healthcare ecosystem using blockchain technology and the team is still in the process of enhancement of the platform with continuous re-validation and revision.
+
+## Roadmap
+
+| ![Image of roadmap](https://github.com/medibloc/whitepaper/blob/master/images/roadmap.png) |
+|:--:|
+| *MediBloc platform roadmap* |
