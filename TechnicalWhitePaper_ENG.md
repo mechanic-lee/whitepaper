@@ -41,7 +41,7 @@ In the usage rental model, a service provider on top of MediBloc platform can st
 
 The fundamental principle of the usage rental model can be applied not only to the bandwidth model but also to the fee-based model. In this case, the term "pay-on-behalf" rather than "rental" would be the better term for the usage rights.
 
-The pay-on-behalf payment model can have both advantages and disadvantages compared to the usage rental model. MediBloc platform adopted the usage rental model based on the bandwidth model because in the fee-based model, the amount of a certain cryptocurrency a secondary signer gets in return, decreases as the user uses the service, whereas the rental model offers the stability of the service and convenience for users.
+The pay-on-behalf payment model can have both advantages and disadvantages compared to the usage rental model. MediBloc platform adopted the usage rental model based on the bandwidth model because in the fee-based model,  the amount of cryptocurrency, in other words balance of MED, decreases as the user uses the service, whereas the rental model offers the stability of the service and convenience for users.
 
 In the usage rental model, usage rights are calculated in the same way as the bandwidth of the bandwidth model. Users can directly allocate their cryptocurrency to use a certain amount of bandwidth without renting the usage amount.
 
