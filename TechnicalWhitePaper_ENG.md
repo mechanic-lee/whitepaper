@@ -1,4 +1,4 @@
-# MediBloc Technical Whitepaper (ENG) v0.2.1
+# MediBloc Technical Whitepaper (ENG) v0.2
 
 
 ## Abstract
