@@ -100,3 +100,9 @@ DPOS 방식의 세부적인 사항은 이 방식의 선구자라고 할 수 있�
 ## 결론
 
 메디블록 플랫폼은 사용자의 의료 데이터가 본인의 완전한 컨트롤 하에 관리되고 활용될 수 있도록, 블록체인 기술을 핵심 기반으로 하여 다양한 컴포넌트들로 구성된다. 메디블록 플랫폼의 최종 목표는 기술을 통해 완전한 환자 중심 헬스케어 생태계를 실현하는 것이며, 검증과 수정을 반복하여 현재보다 나은 형태로 바꿔나가는 일은 여전히 진행 중이다.
+
+## 로드맵
+
+| ![Image of roadmap](https://github.com/medibloc/whitepaper/blob/master/images/roadmap.png) |
+|:--:|
+| *MediBloc platform roadmap* |
